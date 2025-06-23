@@ -304,7 +304,7 @@
         },
         {
             "id": 111,
-            "image": "public/Produktbilleder/effektforstaerkere/parasound_halao23.jpg",
+            "image": "public/Produktbilleder/forforstaerkere/parasound_halop3.jpg",
             "categories": "Effektforstaerkere",
             "brand": "Parasound",
             "type": "Halo A-23 Power Amp",
@@ -556,7 +556,7 @@
         },
         {
             "id": 124,
-            "image": "public/Produktbilleder/int_forstaekere/manley_snapper.jpg",
+            "image": "public/Produktbilleder/int_forstaerkere/manley_snapper.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Manley",
             "type": "Snapper Hybrid Pre/Power",
@@ -575,7 +575,7 @@
         },
         {
             "id": 125,
-            "image": "public/Produktbilleder/int_forstaekere/Manley_Stingray.jpg",
+            "image": "public/Produktbilleder/int_forstaerkere/Manley_Stingray.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Manley",
             "type": "Stingray II Integrated",
