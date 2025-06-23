@@ -172,7 +172,7 @@
         },
         {
             "id": 105,
-            "image": "public/Produktbilleder/forforstaerkere/creek_classic_pre.jpg",
+            "image": "public/Produktbilleder/forforstaerkere/creek_classic.jpg",
             "categories": "Preamplifiers",
             "brand": "Creek",
             "type": "Classic Preamplifier",
@@ -209,7 +209,7 @@
         },
         {
             "id": 106,
-            "image": "public/Produktbilleder/forforstaerkere/creek_Destiny_Pre.jpg",
+            "image": "public/Produktbilleder/forforstaerkere/creek_Destiny.jpg",
             "categories": "Preamplifiers",
             "brand": "Creek",
             "type": "Destiny Preamplifier",
@@ -245,7 +245,7 @@
         },
         {
             "id": 107,
-            "image": "public/Produktbilleder/forforstaerkere/creek_OBH_22_Pre.jpg",
+            "image": "public/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
             "categories": "Preamplifiers",
             "brand": "Creek",
             "type": "OBH-22 Passive Pre",
