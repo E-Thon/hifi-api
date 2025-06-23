@@ -245,7 +245,7 @@
         },
         {
             "id": 108,
-            "image": "public/Produktbilleder/effektforstaerkere/manly_mahi.jpg",
+            "image": "public/Produktbilleder/effektforstaerkere/manley_mahi.jpg",
             "categories": "Effektforstaerkere",
             "brand": "Manley",
             "type": "Mahi Integrated",
@@ -285,7 +285,7 @@
         },
         {
             "id": 110,
-            "image": "public/Produktbilleder/effektforstaerkere/manly_snapper.jpg",
+            "image": "public/Produktbilleder/effektforstaerkere/manley_snapper.jpg",
             "categories": "Effektforstaerkere",
             "brand": "Manley",
             "type": "Snapper Hybrid Power Amp",
@@ -496,10 +496,10 @@
         },
         {
             "id": 121,
-            "image": "public/Produktbilleder/int_forstaekere/creek_a50l.jpg",
+            "image": "public/Produktbilleder/int_forstaerkere/creek_a50I.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Creek",
-            "type": "A50L Integrated Amp",
+            "type": "A50I Integrated Amp",
             "output": "50 W",
             "price": "4499",
             "colors": [
@@ -516,7 +516,7 @@
         },
         {
             "id": 122,
-            "image": "public/Produktbilleder/int_forstaekere/creek_classic5350SE.jpg",
+            "image": "public/Produktbilleder/int_forstaerkere/creek_classic5350SE.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Creek",
             "type": "Classic 5350 SE Amp",
@@ -536,7 +536,7 @@
         },
         {
             "id": 123,
-            "image": "public/Produktbilleder/int_forstaekere/creek_destinyamp.jpg",
+            "image": "public/Produktbilleder/int_forstaerkere/creek_destinyamp.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Creek",
             "type": "Destiny Integrated Amp",
@@ -556,7 +556,7 @@
         },
         {
             "id": 124,
-            "image": "public/Produktbilleder/int_forstaekere/manly_snapper.jpg",
+            "image": "public/Produktbilleder/int_forstaekere/manley_snapper.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Manley",
             "type": "Snapper Hybrid Pre/Power",
@@ -575,7 +575,7 @@
         },
         {
             "id": 125,
-            "image": "public/Produktbilleder/int_forstaekere/Manly_Stingray.jpg",
+            "image": "public/Produktbilleder/int_forstaekere/Manley_Stingray.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Manley",
             "type": "Stingray II Integrated",
@@ -613,10 +613,10 @@
         },
         {
             "id": 127,
-            "image": "public/Produktbilleder/pladespillere/Pro_ject_Debut_lll_red_1.jpg",
+            "image": "public/Produktbilleder/pladespillere/Pro_ject_Debut_III_red_1.jpg",
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
-            "type": "Debut LLL (Red)",
+            "type": "Debut III (Red)",
             "price": "3199",
             "colors": [
                 "Red"
@@ -631,10 +631,10 @@
         },
         {
             "id": 128,
-            "image": "public/Produktbilleder/pladespillere/Pro_ject_Debut_lll_yellow_1.jpg",
+            "image": "public/Produktbilleder/pladespillere/Pro_ject_Debut_III_yellow_1.jpg",
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
-            "type": "Debut LLL (Yellow)",
+            "type": "Debut III (Yellow)",
             "price": "3199",
             "colors": [
                 "Yellow"
