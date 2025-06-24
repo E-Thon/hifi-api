@@ -31,7 +31,7 @@
             "brand": "Creek",
             "type": "Classic CD Player",
             "output": "2V RMS",
-            "price": "4999",
+            "price": "4,999.00",
             "colors": [
                 "Black",
                 "Silver"
@@ -65,7 +65,7 @@
             "brand": "Creek",
             "type": "Destiny CD Player",
             "output": "2.1V RMS",
-            "price": "5999",
+            "price": "5,999.00",
             "colors": [
                 "Black"
             ],
@@ -98,7 +98,7 @@
             "brand": "Creek",
             "type": "Evo CD Player",
             "output": "2V RMS",
-            "price": "5499",
+            "price": "5,499.00",
             "colors": [
                 "Silver"
             ],
@@ -131,7 +131,7 @@
             "brand": "Exposure",
             "type": "2010S CD Player",
             "output": "2V RMS",
-            "price": "6999",
+            "price": "6,999.00",
             "colors": [
                 "Black"
             ],
@@ -164,7 +164,7 @@
             "brand": "Creek",
             "type": "Classic DVD Player",
             "output": "Composite & Optical",
-            "price": "3999",
+            "price": "3,999.00",
             "colors": [
                 "Black"
             ],
@@ -188,7 +188,7 @@
             "brand": "Exposure",
             "type": "2010S DVD Player",
             "output": "HDMI, Optical",
-            "price": "5999",
+            "price": "5,999.00",
             "colors": [
                 "Silver"
             ],
@@ -210,7 +210,7 @@
             "brand": "Parasound",
             "type": "D200 DVD Transport",
             "output": "S/PDIF",
-            "price": "4499",
+            "price": "4,499.00",
             "colors": [
                 "Black"
             ],
@@ -229,7 +229,7 @@
             "brand": "Parasound",
             "type": "Halo D-3 DVD Player",
             "output": "HDMI, Optical, Coaxial",
-            "price": "6999",
+            "price": "6,999.00",
             "colors": [
                 "Silver"
             ],
@@ -250,7 +250,7 @@
             "brand": "Manley",
             "type": "Mahi Integrated",
             "output": "50 W",
-            "price": "15999",
+            "price": "15,999.00",
             "colors": [
                 "Black"
             ],
@@ -271,7 +271,7 @@
             "brand": "Manley",
             "type": "Neo-Classic 300B",
             "output": "18 W",
-            "price": "19999",
+            "price": "19,999.00",
             "colors": [
                 "Silver"
             ],
@@ -290,7 +290,7 @@
             "brand": "Manley",
             "type": "Snapper Hybrid Power Amp",
             "output": "150 W",
-            "price": "13999",
+            "price": "13,999.00",
             "colors": [
                 "Black"
             ],
@@ -309,7 +309,7 @@
             "brand": "Parasound",
             "type": "Halo A-23 Power Amp",
             "output": "100 W",
-            "price": "8999",
+            "price": "8,999.00",
             "colors": [
                 "Silver"
             ],
@@ -327,7 +327,7 @@
             "brand": "Creek",
             "type": "OBH-22 Passive Preamp",
             "output": "Passive",
-            "price": "2999",
+            "price": "2,999.00",
             "colors": [
                 "Silver"
             ],
@@ -346,7 +346,7 @@
             "brand": "Parasound",
             "type": "Classic 7100 Tube Preamplifier",
             "output": "Line / Head-Amp",
-            "price": "7999",
+            "price": "7,999.00",
             "colors": [
                 "Black"
             ],
@@ -366,7 +366,7 @@
             "brand": "Parasound",
             "type": "Halo P-3 Tube Preamplifier",
             "output": "Line",
-            "price": "10999",
+            "price": "10,999.00",
             "colors": [
                 "Silver"
             ],
@@ -386,7 +386,7 @@
             "brand": "Pro-Ject",
             "type": "Pre Box RS Digital Preamp",
             "output": "Line",
-            "price": "4499",
+            "price": "4,499.00",
             "colors": [
                 "Black"
             ],
@@ -405,7 +405,7 @@
             "categories": "Højtalere",
             "brand": "Bösendorfer",
             "type": "VCS Wall Speaker",
-            "price": "24999",
+            "price": "24,999.00",
             "colors": [
                 "White"
             ],
@@ -424,7 +424,7 @@
             "categories": "Højtalere",
             "brand": "EPOS",
             "type": "M5 Mini Monitor",
-            "price": "7999",
+            "price": "7,999.00",
             "colors": [
                 "Black"
             ],
@@ -443,7 +443,7 @@
             "categories": "Højtalere",
             "brand": "Harbeth",
             "type": "HL7ES-2 Monitor",
-            "price": "11999",
+            "price": "11,999.00",
             "colors": [
                 "Oak"
             ],
@@ -462,7 +462,7 @@
             "categories": "Højtalere",
             "brand": "Harbeth",
             "type": "Monitor 30 Speaker",
-            "price": "17999",
+            "price": "17,999.00",
             "colors": [
                 "Walnut"
             ],
@@ -481,7 +481,7 @@
             "categories": "Højtalere",
             "brand": "Harbeth",
             "type": "P3ES-2 Monitor",
-            "price": "8999",
+            "price": "8,999.00",
             "colors": [
                 "Red Oak"
             ],
@@ -501,7 +501,7 @@
             "brand": "Creek",
             "type": "A50I Integrated Amp",
             "output": "50 W",
-            "price": "4499",
+            "price": "4,499.00",
             "colors": [
                 "Silver"
             ],
@@ -521,7 +521,7 @@
             "brand": "Creek",
             "type": "Classic 5350 SE Amp",
             "output": "125 W",
-            "price": "8999",
+            "price": "8,999.00",
             "colors": [
                 "Black"
             ],
@@ -541,7 +541,7 @@
             "brand": "Creek",
             "type": "Destiny Integrated Amp",
             "output": "100 W",
-            "price": "10999",
+            "price": "10,999.00",
             "colors": [
                 "Silver"
             ],
@@ -561,7 +561,7 @@
             "brand": "Manley",
             "type": "Snapper Hybrid Pre/Power",
             "output": "150 W",
-            "price": "13999",
+            "price": "13,999.00",
             "colors": [
                 "Black"
             ],
@@ -580,7 +580,7 @@
             "brand": "Manley",
             "type": "Stingray II Integrated",
             "output": "75 W",
-            "price": "17999",
+            "price": "17,999.00",
             "colors": [
                 "Silver"
             ],
@@ -599,7 +599,7 @@
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "Debut 3 (Black)",
-            "price": "2499",
+            "price": "2,499.00",
             "colors": [
                 "Black"
             ],
@@ -617,7 +617,7 @@
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "Debut III (Red)",
-            "price": "3199",
+            "price": "3,199.00",
             "colors": [
                 "Red"
             ],
@@ -635,7 +635,7 @@
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "Debut III (Yellow)",
-            "price": "3199",
+            "price": "3,199.00",
             "colors": [
                 "Yellow"
             ],
@@ -653,7 +653,7 @@
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "RPM 5 Carbon",
-            "price": "6999",
+            "price": "6,999.00",
             "colors": [
                 "Black"
             ],
@@ -670,7 +670,7 @@
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "RPM 10.0 Carbon",
-            "price": "9999",
+            "price": "9,999.00",
             "colors": [
                 "Black"
             ],
@@ -688,7 +688,7 @@
             "brand": "Jolida",
             "type": "JD 102B Tube Amp",
             "output": "10 W",
-            "price": "3999",
+            "price": "3,999.00",
             "colors": [
                 "Black"
             ],
@@ -707,7 +707,7 @@
             "brand": "Jolida",
             "type": "JD-202A Tube Amp",
             "output": "25 W",
-            "price": "4999",
+            "price": "4,999.00",
             "colors": [
                 "Silver"
             ],
@@ -726,7 +726,7 @@
             "brand": "Jolida",
             "type": "JD-300B Tube Amp",
             "output": "18 W",
-            "price": "8999",
+            "price": "8,999.00",
             "colors": [
                 "Black"
             ],
@@ -745,7 +745,7 @@
             "brand": "Jolida",
             "type": "JD-302B Tube Amp",
             "output": "20 W",
-            "price": "9999",
+            "price": "9,999.00",
             "colors": [
                 "Silver"
             ],
@@ -764,7 +764,7 @@
             "brand": "Jolida",
             "type": "JD-502B Tube Amp",
             "output": "40 W",
-            "price": "12999",
+            "price": "12,999",
             "colors": [
                 "Black"
             ],
