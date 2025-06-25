@@ -26,7 +26,7 @@
     "Products": [
         {
             "id": 100,
-            "image": "public/Produktbilleder/cd_afspillere/creek_classic_cd.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/cd_afspillere/creek_classic_cd.jpg",
             "categories": "CD Afspillere",
             "brand": "Creek",
             "type": "Classic CD Player",
@@ -60,7 +60,7 @@
         },
         {
             "id": 101,
-            "image": "public/Produktbilleder/cd_afspillere/creek_Destiny_CD.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/cd_afspillere/creek_Destiny_CD.jpg",
             "categories": "CD Afspillere",
             "brand": "Creek",
             "type": "Destiny CD Player",
@@ -93,7 +93,7 @@
         },
         {
             "id": 102,
-            "image": "public/Produktbilleder/cd_afspillere/creek_evo_cd.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/cd_afspillere/creek_evo_cd.jpg",
             "categories": "CD Afspillere",
             "brand": "Creek",
             "type": "Evo CD Player",
@@ -126,7 +126,7 @@
         },
         {
             "id": 103,
-            "image": "public/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif",
             "categories": "CD Afspillere",
             "brand": "Exposure",
             "type": "2010S CD Player",
@@ -159,7 +159,7 @@
         },
         {
             "id": 104,
-            "image": "public/Produktbilleder/dvdafspillere/creek_classic.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/dvdafspillere/creek_classic.jpg",
             "categories": "DVD Afspillere",
             "brand": "Creek",
             "type": "Classic DVD Player",
@@ -183,7 +183,7 @@
         },
         {
             "id": 105,
-            "image": "public/Produktbilleder/dvdafspillere/exposure_2010S.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/dvdafspillere/exposure_2010S.jpg",
             "categories": "DVD Afspillere",
             "brand": "Exposure",
             "type": "2010S DVD Player",
@@ -205,7 +205,7 @@
         },
         {
             "id": 106,
-            "image": "public/Produktbilleder/dvdafspillere/parasound_d200.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/dvdafspillere/parasound_d200.jpg",
             "categories": "DVD Afspillere",
             "brand": "Parasound",
             "type": "D200 DVD Transport",
@@ -224,7 +224,7 @@
         },
         {
             "id": 107,
-            "image": "public/Produktbilleder/dvdafspillere/parasound_halod3.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/dvdafspillere/parasound_halod3.jpg",
             "categories": "DVD Afspillere",
             "brand": "Parasound",
             "type": "Halo D-3 DVD Player",
@@ -245,7 +245,7 @@
         },
         {
             "id": 108,
-            "image": "public/Produktbilleder/effektforstaerkere/manley_mahi.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/effektforstaerkere/manley_mahi.jpg",
             "categories": "Effektforstaerkere",
             "brand": "Manley",
             "type": "Mahi Integrated",
@@ -266,7 +266,7 @@
         },
         {
             "id": 109,
-            "image": "public/Produktbilleder/effektforstaerkere/manley_neoclassic300b.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/effektforstaerkere/manley_neoclassic300b.jpg",
             "categories": "Effektforstaerkere",
             "brand": "Manley",
             "type": "Neo-Classic 300B",
@@ -285,7 +285,7 @@
         },
         {
             "id": 110,
-            "image": "public/Produktbilleder/effektforstaerkere/manley_snapper.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/effektforstaerkere/manley_snapper.jpg",
             "categories": "Effektforstaerkere",
             "brand": "Manley",
             "type": "Snapper Hybrid Power Amp",
@@ -304,7 +304,7 @@
         },
         {
             "id": 111,
-            "image": "public/Produktbilleder/forforstaerkere/parasound_halop3.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/forforstaerkere/parasound_halop3.jpg",
             "categories": "Effektforstaerkere",
             "brand": "Parasound",
             "type": "Halo A-23 Power Amp",
@@ -322,7 +322,7 @@
         },
         {
             "id": 112,
-            "image": "public/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
             "categories": "Forforstaerkere",
             "brand": "Creek",
             "type": "OBH-22 Passive Preamp",
@@ -341,7 +341,7 @@
         },
         {
             "id": 113,
-            "image": "public/Produktbilleder/forforstaerkere/parasound_classic7100.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/forforstaerkere/parasound_classic7100.jpg",
             "categories": "Forforstaerkere",
             "brand": "Parasound",
             "type": "Classic 7100 Tube Preamplifier",
@@ -361,7 +361,7 @@
         },
         {
             "id": 114,
-            "image": "public/Produktbilleder/forforstaerkere/parasound_halop3.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/forforstaerkere/parasound_halop3.jpg",
             "categories": "Forforstaerkere",
             "brand": "Parasound",
             "type": "Halo P-3 Tube Preamplifier",
@@ -381,7 +381,7 @@
         },
         {
             "id": 115,
-            "image": "public/Produktbilleder/forforstaerkere/Project_prebox.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/forforstaerkere/Project_prebox.jpg",
             "categories": "Forforstaerkere",
             "brand": "Pro-Ject",
             "type": "Pre Box RS Digital Preamp",
@@ -401,7 +401,7 @@
         },
         {
             "id": 116,
-            "image": "public/Produktbilleder/hojtalere/boesendorfer_vcs_wall.gif",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/hojtalere/boesendorfer_vcs_wall.gif",
             "categories": "Højtalere",
             "brand": "Bösendorfer",
             "type": "VCS Wall Speaker",
@@ -420,7 +420,7 @@
         },
         {
             "id": 117,
-            "image": "public/Produktbilleder/hojtalere/epos_m5.gif",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/hojtalere/epos_m5.gif",
             "categories": "Højtalere",
             "brand": "EPOS",
             "type": "M5 Mini Monitor",
@@ -439,7 +439,7 @@
         },
         {
             "id": 118,
-            "image": "public/Produktbilleder/hojtalere/harbeth_hl7es2.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/hojtalere/harbeth_hl7es2.jpg",
             "categories": "Højtalere",
             "brand": "Harbeth",
             "type": "HL7ES-2 Monitor",
@@ -458,7 +458,7 @@
         },
         {
             "id": 119,
-            "image": "public/Produktbilleder/hojtalere/harbeth_monitor30.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/hojtalere/harbeth_monitor30.jpg",
             "categories": "Højtalere",
             "brand": "Harbeth",
             "type": "Monitor 30 Speaker",
@@ -477,7 +477,7 @@
         },
         {
             "id": 120,
-            "image": "public/Produktbilleder/hojtalere/harbeth_p3es2.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/hojtalere/harbeth_p3es2.jpg",
             "categories": "Højtalere",
             "brand": "Harbeth",
             "type": "P3ES-2 Monitor",
@@ -496,7 +496,7 @@
         },
         {
             "id": 121,
-            "image": "public/Produktbilleder/int_forstaerkere/creek_a50I.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/int_forstaerkere/creek_a50I.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Creek",
             "type": "A50I Integrated Amp",
@@ -516,7 +516,7 @@
         },
         {
             "id": 122,
-            "image": "public/Produktbilleder/int_forstaerkere/creek_classic5350SE.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/int_forstaerkere/creek_classic5350SE.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Creek",
             "type": "Classic 5350 SE Amp",
@@ -536,7 +536,7 @@
         },
         {
             "id": 123,
-            "image": "public/Produktbilleder/int_forstaerkere/creek_destinyamp.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/int_forstaerkere/creek_destinyamp.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Creek",
             "type": "Destiny Integrated Amp",
@@ -556,7 +556,7 @@
         },
         {
             "id": 124,
-            "image": "public/Produktbilleder/int_forstaerkere/manley_snapper.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/int_forstaerkere/manley_snapper.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Manley",
             "type": "Snapper Hybrid Pre/Power",
@@ -575,7 +575,7 @@
         },
         {
             "id": 125,
-            "image": "public/Produktbilleder/int_forstaerkere/Manley_Stingray.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/int_forstaerkere/Manley_Stingray.jpg",
             "categories": "Integrerede Forstærkere",
             "brand": "Manley",
             "type": "Stingray II Integrated",
@@ -595,7 +595,7 @@
         },
         {
             "id": 126,
-            "image": "public/Produktbilleder/pladespillere/Pro_ject_Debut_3_bl.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/pladespillere/Pro_ject_Debut_3_bl.jpg",
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "Debut 3 (Black)",
@@ -613,7 +613,7 @@
         },
         {
             "id": 127,
-            "image": "public/Produktbilleder/pladespillere/Pro_ject_Debut_III_red_1.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/pladespillere/Pro_ject_Debut_III_red_1.jpg",
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "Debut III (Red)",
@@ -631,7 +631,7 @@
         },
         {
             "id": 128,
-            "image": "public/Produktbilleder/pladespillere/Pro_ject_Debut_III_yellow_1.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/pladespillere/Pro_ject_Debut_III_yellow_1.jpg",
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "Debut III (Yellow)",
@@ -649,7 +649,7 @@
         },
         {
             "id": 129,
-            "image": "public/Produktbilleder/pladespillere/Pro_ject_rpm_5.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/pladespillere/Pro_ject_rpm_5.jpg",
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "RPM 5 Carbon",
@@ -666,7 +666,7 @@
         },
         {
             "id": 130,
-            "image": "public/Produktbilleder/pladespillere/Pro_ject_rpm10.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/pladespillere/Pro_ject_rpm10.jpg",
             "categories": "Pladespillere",
             "brand": "Pro-Ject",
             "type": "RPM 10.0 Carbon",
@@ -683,7 +683,7 @@
         },
         {
             "id": 131,
-            "image": "public/Produktbilleder/roer_forstaerkere/Jolida_JD102b.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/roer_forstaerkere/Jolida_JD102b.jpg",
             "categories": "Rørforstærkere",
             "brand": "Jolida",
             "type": "JD 102B Tube Amp",
@@ -702,7 +702,7 @@
         },
         {
             "id": 132,
-            "image": "public/Produktbilleder/roer_forstaerkere/Jolida_JD202a.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/roer_forstaerkere/Jolida_JD202a.jpg",
             "categories": "Rørforstærkere",
             "brand": "Jolida",
             "type": "JD-202A Tube Amp",
@@ -721,7 +721,7 @@
         },
         {
             "id": 133,
-            "image": "public/Produktbilleder/roer_forstaerkere/Jolida_JD300b.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/roer_forstaerkere/Jolida_JD300b.jpg",
             "categories": "Rørforstærkere",
             "brand": "Jolida",
             "type": "JD-300B Tube Amp",
@@ -740,7 +740,7 @@
         },
         {
             "id": 134,
-            "image": "public/Produktbilleder/roer_forstaerkere/Jolida_JD302b.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/roer_forstaerkere/Jolida_JD302b.jpg",
             "categories": "Rørforstærkere",
             "brand": "Jolida",
             "type": "JD-302B Tube Amp",
@@ -759,7 +759,7 @@
         },
         {
             "id": 135,
-            "image": "public/Produktbilleder/roer_forstaerkere/Jolida_JD502b.jpg",
+            "image": "https://hifi-horizon-super-team.netlify.app/Produktbilleder/roer_forstaerkere/Jolida_JD502b.jpg",
             "categories": "Rørforstærkere",
             "brand": "Jolida",
             "type": "JD-502B Tube Amp",
@@ -782,7 +782,7 @@
             "id": 201,
             "title": "History",
             "catchfrase": "Established in the late 1960s, our family owned business is based in Edinburgh and Falkirk, but services customers across the UK.",
-            "image": "public/Aboutbilleder/history.png",
+            "image": "https://hifi-horizon-super-team.netlify.app/Aboutbilleder/history.png",
             "text": {
                 "paragraphs": [
                     "Our Edinburgh branch has the longest history as an audio retailer in the UK. During recent renovations, receipts were found from Nicolson’s Gramophone Saloon dating back to 1926. In the 1950s WG Graham took over the shop and renamed it WG Graham’s HiFi Corner. Upon his retirement, Graham Tiso bought the business and modernized the name to HiFi Horizon.",
@@ -794,7 +794,7 @@
             "id": 202,
             "title": "Hear The Difference",
             "catchfrase": "Book a demonstration at our Edinburgh or Falkirk showrooms.",
-            "image": "public/Aboutbilleder/hear-the-difference.png",
+            "image": "https://hifi-horizon-super-team.netlify.app/Aboutbilleder/hear-the-difference.png",
             "text": {
                 "paragraphs": [
                     "Would you choose a quality car without a test drive? If you are familiar with the brand and have great trust in it, you might. However, our listening preferences are unique to the individual and with many of our customers new to the world of high quality sound and vision, we encourage everyone to come in to demonstrate the products they are interested in. You’ll find a relaxing and comfortable environment in both our Edinburgh and Falkirk premises where you can decide for yourself if the kit is right for you. We also offer home demonstrations on selected products.",
@@ -807,7 +807,7 @@
             "id": 203,
             "title": "Services",
             "catchfrase": "Our passion for the products we sell and, for our customers’ satisfaction simply means that we happily offer additional services not found on the high-street.",
-            "image": "public/Aboutbilleder/services.png",
+            "image": "https://hifi-horizon-super-team.netlify.app/Aboutbilleder/services.png",
             "text": {
                 "paragraphs": [
                     "Home Setup - We want to ensure that the equipment you’ve purchased from us is installed correctly and sounds perfect; and we happily provide this service throughout the UK.",
@@ -821,7 +821,7 @@
             "id": 204,
             "title": "Tailored For You",
             "catchfrase": "We look forward to customising a system to meet your needs.",
-            "image": "public/Aboutbilleder/tailored-for-you.png",
+            "image": "https://hifi-horizon-super-team.netlify.app/Aboutbilleder/tailored-for-you.png",
             "text": {
                 "paragraphs": [
                     "We don’t favour one manufacturer over another – the only thing we do favour is making sure our customers get the right product that suits their needs and listening preferences. We will ask many questions in order to ensure that what you buy from us is tailored to you and you alone.",
